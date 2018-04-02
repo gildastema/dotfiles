@@ -1,0 +1,14 @@
+[colors]
+transparency = 0.8
+background = rgba(0, 0, 0, 0.8)
+foreground      = #a5a2a2
+foreground_bold = #d6d5d4
+cursor          = #d6d5d4
+
+[options]
+fonts = Consola 16
+scrollback_lines = 10000
+allow_bold = true
+audible_bell = false
+clickable_url = true
+dynamic_title = true
